@@ -3,7 +3,7 @@
 
 - Recent UCF Full Stack Bootcamp Graduate 🎓
 
-- Passionate about UI/UX 🖍
+- Passionate about UI/UX 
 
 - Proficient in React.js 
 
